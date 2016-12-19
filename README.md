@@ -1,1 +1,1 @@
-about.github.io
+zjanelle.github.io/about
